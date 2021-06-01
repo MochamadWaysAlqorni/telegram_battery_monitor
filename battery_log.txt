@@ -1,0 +1,52 @@
+Log : 2021-06-01 19:23:05
+Charging : True
+Tegangan Baterai : 12.475 Volt 
+Sisa kapasitas : 4.719 Wh
+Log : 2021-06-01 19:23:10
+Charging : True
+Tegangan Baterai : 12.475 Volt 
+Sisa kapasitas : 4.719 Wh
+Log : 2021-06-01 19:23:15
+Charging : True
+Tegangan Baterai : 12.475 Volt 
+Sisa kapasitas : 4.719 Wh
+Log : 2021-06-01 19:23:20
+Charging : True
+Tegangan Baterai : 12.475 Volt 
+Sisa kapasitas : 4.719 Wh
+Log : 2021-06-01 19:23:25
+Charging : True
+Tegangan Baterai : 12.479 Volt 
+Sisa kapasitas : 4.807 Wh
+Log : 2021-06-01 19:23:30
+Charging : True
+Tegangan Baterai : 12.479 Volt 
+Sisa kapasitas : 4.807 Wh
+Log : 2021-06-01 19:23:35
+Charging : True
+Tegangan Baterai : 12.479 Volt 
+Sisa kapasitas : 4.807 Wh
+Log : 2021-06-01 19:23:40
+Charging : True
+Tegangan Baterai : 12.484 Volt 
+Sisa kapasitas : 4.895 Wh
+Log : 2021-06-01 19:23:45
+Charging : True
+Tegangan Baterai : 12.484 Volt 
+Sisa kapasitas : 4.895 Wh
+Log : 2021-06-01 19:23:50
+Charging : True
+Tegangan Baterai : 12.484 Volt 
+Sisa kapasitas : 4.895 Wh
+Log : 2021-06-01 19:23:55
+Charging : True
+Tegangan Baterai : 12.487 Volt 
+Sisa kapasitas : 4.994 Wh
+Log : 2021-06-01 19:24:00
+Charging : True
+Tegangan Baterai : 12.487 Volt 
+Sisa kapasitas : 4.994 Wh
+Log : 2021-06-01 19:24:05
+Charging : True
+Tegangan Baterai : 12.487 Volt 
+Sisa kapasitas : 4.994 Wh
